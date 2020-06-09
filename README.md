@@ -145,7 +145,7 @@ match("foo");                     // Exception("Unexpected value")
 
 ## Motivating examples
 
-The following section demonstrates code that is written logical, but has illogical results.
+The following section demonstrates code that is written logically, but has illogical results.
 
 ### Mixed type comparison
 
